@@ -1,7 +1,5 @@
 # Portfolio Project Manager
 
-# PortfolioProjectManager
-
 A centralized project portfolio manager that allows users to access and manage multiple projects in one place using a table format. This public and free tool is designed to facilitate collaboration and provide easy access to project information.
 
 ## Features
